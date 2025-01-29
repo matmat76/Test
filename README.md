@@ -10,3 +10,5 @@ Pour effacer les fichiers générés par la compilation (.o, .d, binaire et auss
 Avant de lancer votre programme, assurez-vous que le simulateur soit lancé.
 Pensez à appuyer sur le bouton démarrer du simulateur si vous voulez le voir s'animer.
 Depuis le répertoire src, vous lancez le programme avec la commande ../bin/go
+
+Petite modif
